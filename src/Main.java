@@ -1,25 +1,3 @@
-//class Animal {
-//    int speed = 100;
-//    void run() {
-//        System.out.println("Animal runnign speed : " + speed);
-//    }
-//}
-//
-//class Dog extends Animal {
-//    int speed = 200;
-//    void run() {
-//        System.out.println("Dog runnign with speed : " + speed);
-//    }
-//}
-//
-//public class Main {
-//    public static void main(String[] args) {
-//        Animal animal = new Dog();
-//        animal.run();
-//        System.out.println("Speed is : " + animal.speed);
-//    }
-//}
-
 import java.math.BigDecimal;
 
 public class Main {
